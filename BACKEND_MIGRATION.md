@@ -13,7 +13,7 @@ In December 2022, ImageAI `3.0.2` was released which effected the change from Te
 
 # Using Tensorflow backend
 To use Tensorflow backend, do the following
-
+ 
 - Install Python 3.7
 - Install Tensorflow 
   - CPU: `pip install tensorflow==2.4.0`
